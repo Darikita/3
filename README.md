@@ -1,7 +1,9 @@
 # HenryWeatherApp
 
-Henry Weather App es una app de clima que consume información de la api externa Open Weather Map, permitiéndote acceder a datos climáticos de ciudades y países alrededor del mundo. 
+Es una Aplicación del clima a tiempo real, que permite acceder a datos climáticos de ciudades y países en el mundo. Solo tienes que escribir la ciudad o país que buscas y hacer click en agregar, te aparecerá una tarjeta con datos básicos, si deseas mas información solo haz click en ver más detalles.
 
-Para agregar una localidad accede a la pantalla "Home", en cada tarjeta puedes ver más detalles cliqueando en el botón destinado para ello.
+Realizada por: Dárika Valdez.
 
-App hecha a base de React.js, usando react-router y estilos con CSS Modules por: *Nohelia*✨
+Estudiante de Full Stack Developer en “SoyHenry”
+
+Hecho con Tecnología: HTML, CSS, Javascript, y React.
