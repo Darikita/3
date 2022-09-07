@@ -1,6 +1,6 @@
 body {
   background-image:url('./img/fondonav2.png');
-  background-size: 100%;
+  background-size: cover;
   background-attachment: fixed;
   /* backdrop-filter: blur(5px); */
   margin: 0;
